@@ -49,7 +49,7 @@ Experiments without measurements don't provide results.  If we want to learn fro
 
 ---
 
-Something that we missed when we defined our values dis **Community**.  While **Teamwork** and **Learning** make Ncontracts a great company, **Community** makes Ncontracts a great place to work.  Some activities I've seen that point to this "hidden" value:
+Something that we missed when we defined our values is **Community**.  While **Teamwork** and **Learning** make Ncontracts a great company, **Community** makes Ncontracts a great place to work.  Some activities I've seen that point to this "hidden" value:
 
 **Genuine care for colleagues**
 We have a focus on knowing people and understanding who they are outside of work.  Time and time again we have rallied around coworkers who have gone through difficult times, given people space, and filled in gaps when needed.  We've also celebrated personal and professional victories and had deep and meaningful conversations about broad ranging topics.
