@@ -1,13 +1,13 @@
-layout: post
-title: "What Do We Value?"
-date: 2022-05-25 08:00 -0000
-categories: values thoughts
+# What do we value?
 
+---
 
 As I approach my fifth work anniversary at Ncontracts I've been doing some introspection about why I've worked here longer than anywhere else in my career.  The more I thought about it the more I realized that a large part of it is our Values.  We've had a lot of growth in the last couple of years and this seems like a great time to make sure we're all on the same page with what we ***say*** we value, what we ***actually*** value, and maybe what we ***want to*** value.
 
 ---
-What we *say* we value
+
+# What we *say* we value
+
 ---
 
 Several years ago we asked ourselves in the Product and Development organization what we value and we came up with two words that summarized the things that were important to us at the time: **Teamwork** and **Learning**.  
@@ -45,7 +45,8 @@ We move from ambiguity to clarity over time through discovery.  We all have diff
 Experiments without measurements don't provide results.  If we want to learn from experiments we need to know the results.  We should strive to provide both the measure for what success looks like and the mechanism for measurement.
   
 ---
-What we actually value
+# What we actually value
+
 ---
 
 Something that we missed when we defined our values dis **Community**.  While **Teamwork** and **Learning** make Ncontracts a great company, **Community** makes Ncontracts a great place to work.  Some activities I've seen that point to this "hidden" value:
@@ -57,8 +58,10 @@ We have a focus on knowing people and understanding who they are outside of work
 While we are picky with our hiring practices, we are a place where people can feel like they belong regardless of differences.  We promote open conversations and respectful disagreements.  We have people working with us from coast to coast, with wide opinions on politics and religion, as well as music and television.
 
 ---
-What we *want* to value
+# What we *want* to value
+
 ---
+
 If asked "Do you want to build quality software" chances are everyone would say yes.  If we look at what actions we take to build quality software it is less clear cut.  Quality is not solely the job of our QA teams, but of every individual member of the Product and Development organization.  We should be placing as much emphasis on the quality of our work as we do on working together, learning from our mistakes, or building community.  Some behaviors and actions I'd like to see that could drive us towards a higher value on quality include:
 
 **Ownership**
@@ -74,7 +77,8 @@ At any given moment we have hundreds of active defects across our product lines.
 We look at our products every day.  We know when things are slow, when we get frustrated by usability, when things are broken.  If we notice it, our customers will too. It is our responsibility to the team that when we notice something, we do something about it.  That won't always mean fixing things immediately, but at least calling it out, put an item on the board for later, and ask your lead to prioritize it.
 
 ---
-What do you think?
+# What do you think?
+
 ---
 
 Our cultural values aren't defined by the leadership team, they are defined by what we all say and do. Which of these values, behaviors, and activities resonate most with you?  What values aren't represented?  What behaviors or activities are we doing that you think should be on this list? What behaviors or activities are we doing, or you observed, that detract from our values? Are there things we aren't doing that you think we should start doing?  If so, remember, you are empowered to make things different and better.  These are values we choose, not values that are thrust upon us.
