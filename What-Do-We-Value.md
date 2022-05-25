@@ -1,6 +1,6 @@
 layout: page
 title: "What Do We Value?"
-permalink: /notes/values/
+permalink: /values/
 
 As I approach my fifth work anniversary at Ncontracts I've been doing some introspection about why I've worked here longer than anywhere else in my career.  The more I thought about it the more I realized that a large part of it is our Values.  We've had a lot of growth in the last couple of years and this seems like a great time to make sure we're all on the same page with what we ***say*** we value, what we ***actually*** value, and maybe what we ***want to*** value.
 
