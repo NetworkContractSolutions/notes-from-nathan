@@ -6,7 +6,7 @@ As I approach my fifth work anniversary at Ncontracts I've been doing some intro
 
 ---
 
-## What we *say* we value
+### What we *say* we value
 
 ---
 
@@ -45,7 +45,7 @@ We move from ambiguity to clarity over time through discovery.  We all have diff
 Experiments without measurements don't provide results.  If we want to learn from experiments we need to know the results.  We should strive to provide both the measure for what success looks like and the mechanism for measurement.
   
 ---
-## What we actually value
+### What we actually value
 
 ---
 
@@ -58,7 +58,7 @@ We have a focus on knowing people and understanding who they are outside of work
 While we are picky with our hiring practices, we are a place where people can feel like they belong regardless of differences.  We promote open conversations and respectful disagreements.  We have people working with us from coast to coast, with wide opinions on politics and religion, as well as music and television.
 
 ---
-## What we *want* to value
+### What we *want* to value
 
 ---
 
@@ -77,7 +77,7 @@ At any given moment we have hundreds of active defects across our product lines.
 We look at our products every day.  We know when things are slow, when we get frustrated by usability, when things are broken.  If we notice it, our customers will too. It is our responsibility to the team that when we notice something, we do something about it.  That won't always mean fixing things immediately, but at least calling it out, put an item on the board for later, and ask your lead to prioritize it.
 
 ---
-## What do you think?
+### What do you think?
 
 ---
 
